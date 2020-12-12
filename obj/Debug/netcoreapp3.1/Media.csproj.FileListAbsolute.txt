@@ -1,0 +1,13 @@
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Media\bin\Debug\netcoreapp3.1\Media.exe
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Media\bin\Debug\netcoreapp3.1\Media.deps.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.dev.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Media\bin\Debug\netcoreapp3.1\Media.dll
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Media\bin\Debug\netcoreapp3.1\Media.pdb
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Media\obj\Debug\netcoreapp3.1\Media.csprojAssemblyReference.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfoInputs.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfo.cs
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Media\obj\Debug\netcoreapp3.1\Media.csproj.CoreCompileInputs.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Media\obj\Debug\netcoreapp3.1\Media.dll
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Media\obj\Debug\netcoreapp3.1\Media.pdb
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\Media\obj\Debug\netcoreapp3.1\Media.genruntimeconfig.cache
